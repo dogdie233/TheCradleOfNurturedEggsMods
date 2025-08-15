@@ -21,5 +21,12 @@
     <ItemGroup>
         <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.738" IncludeAssets="compile" />
         <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
+        <PackageReference Include="UnityEngine.Modules" Version="6000.0.30" IncludeAssets="compile" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Reference Include="Assembly-CSharp">
+            <HintPath>..\GameLibs\Assembly-CSharp.dll</HintPath>
+        </Reference>
     </ItemGroup>
 </Project>
