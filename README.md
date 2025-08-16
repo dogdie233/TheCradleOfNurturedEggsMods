@@ -16,7 +16,7 @@ translate help need
 
 ## Uncensored
 
-去除3D场景中的马赛克
+去除3D场景中的马赛克，但是对于CG的马赛克是无能为力的（例如死亡后的战败动画）
 
 ## FreeCam
 
