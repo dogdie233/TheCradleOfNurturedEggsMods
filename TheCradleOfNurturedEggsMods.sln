@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uncensored", "Uncensored\Uncensored.csproj", "{3B65CDD6-827B-44AA-8A5F-04FF4997F345}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCam", "FreeCam\FreeCam.csproj", "{E42CBDF3-142B-47DB-BAC6-1F057B96CC4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{3B65CDD6-827B-44AA-8A5F-04FF4997F345}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B65CDD6-827B-44AA-8A5F-04FF4997F345}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B65CDD6-827B-44AA-8A5F-04FF4997F345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42CBDF3-142B-47DB-BAC6-1F057B96CC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42CBDF3-142B-47DB-BAC6-1F057B96CC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42CBDF3-142B-47DB-BAC6-1F057B96CC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42CBDF3-142B-47DB-BAC6-1F057B96CC4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
